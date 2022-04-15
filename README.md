@@ -24,8 +24,4 @@ Personally, I chose this data set because manga has been a huge part of my life.
 
 ## Demo Video
 Demo Video:
-[Click Here](https://youtu.be/mJZLzVaODmQ)
-
-Course Connections Video:
-[Click Here](https://youtu.be/15Nb5mjZgk8)
-
+[Click Here](https://youtu.be/NyXGQQ-j6vw)
