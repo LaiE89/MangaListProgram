@@ -1,11 +1,9 @@
 
-# ICS4U - CPT: Data Interaction and Visualization
+# My Manga List
+## Installation
+Download the zip file [here](https://www.dropbox.com/s/xvwj3i9x8qq5aho/MyMangaList.zip?dl=1).
 
-Edit this page to include:
-* A description of the data set you are using
-* A link to your source for the data set.
-* Why you selected this data set for this project.
-* Embedded or link to your Demo Video
+Extract all the files into a seperate folder -> run the '.exe' file
 
 ## Description of the Data Set
 Manga is another word for japanese comics. Many people may heard of Akira, Astro Boy, Dragon Ball, and Ghost in the Shell. All of these popular movies and shows are based from manga.
