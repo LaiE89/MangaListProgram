@@ -5,6 +5,10 @@ Download the zip file [here](https://www.dropbox.com/s/xvwj3i9x8qq5aho/MyMangaLi
 
 Extract all the files into a seperate folder -> run the '.exe' file
 
+
+https://user-images.githubusercontent.com/97263413/171289795-9414ea5e-fe3e-4282-94e9-3cede9017c11.mp4
+
+
 ## Description of the Data Set
 Manga is another word for japanese comics. Many people may heard of Akira, Astro Boy, Dragon Ball, and Ghost in the Shell. All of these popular movies and shows are based from manga.
 
